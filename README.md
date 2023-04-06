@@ -1,0 +1,29 @@
+# Imersão Multi-Stack: Semana 02 - Nivelamento Linguagem C# e Nivelamento de Orientação a Objetos no C#
+
+Código fonte das aulas da semana 02 da imersão Multi-Stack da TreinaWeb.
+
+## Lista de commits
+
+| Aula    | Video                                                | Commit                                            | Link                                                                                                                        |
+| ------- | ---------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Aula 02 | Vídeo 02 - Primeiro exemplo da linguagem             | 02:02 - Primeiro exemplo da linguagem             | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/8de4aa5a591106e0da40c57ff8414391d0f9d9c8.zip) |
+| Aula 02 | Vídeo 03 - Variáveis, constantes e tipos de dados    | 02:03 - Variáveis, constantes e tipos de dados    | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/70a13ab6aef08c16534e3130041e947a384214ef.zip) |
+| Aula 02 | Vídeo 04 - Operadores matemáticos                    | 02:04 - Operadores matemáticos                    | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/2829df805f5a72b379455950576ee1d21521da79.zip) |
+| Aula 02 | Vídeo 05 - Operadores relacionais                    | 02:05 - Operadores relacionais                    | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/166338333d2e9e73da18a5eae8d3514eaff9f815.zip) |
+| Aula 02 | Vídeo 06 - Operadores lógicos                        | 02:06 - Operadores lógicos                        | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/f7989b78ea3338064487ac50810d65c213da6cd8.zip) |
+| Aula 02 | Vídeo 07 - Estruturas condicionais: if/else          | 02:07 - Estruturas condicionais: if/else          | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/174db105b2d86df4b3845324599402fda5d5066f.zip) |
+| Aula 02 | Vídeo 08 - Estruturas condicionais: switch/case      | 02:08 - Estruturas condicionais: switch/case      | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/de36005523bf839f696988383b6182678087e121.zip) |
+| Aula 02 | Vídeo 09 - Estruturas de repetição: while e do-while | 02:09 - Estruturas de repetição: while e do-while | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/c53430b79bda2e13341901c3dbc95797e845517a.zip) |
+| Aula 02 | Vídeo 10 - Estruturas de repetição: for              | 02:10 - Estruturas de repetição: for              | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/3f260361e38bb3af398defec8f5ac9efc201bfb2.zip) |
+| Aula 02 | Vídeo 11 - Collections: Listas                       | 02:11 - Collections: Listas                       | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/2b8c92fc3da6bf488282b101c95693883de15ce6.zip) |
+| Aula 02 | Vídeo 12 - Collections: Dicionários                  | 02:12 - Collections: Dicionários                  | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/c29e50f51c35e7b71a5c8371a468b676e49657ca.zip) |
+| Aula 02 | Vídeo 13 - Estruturas de repetição foreach           | 02:13 - Estruturas de repetição foreach           | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/e0e0aeb42dc86517d66a8cf9e29818f1c9f4bd3f.zip) |
+| Aula 03 | Vídeo 15 - Conhecendo classes e objetos no C#        | 03:15 - Conhecendo classes e objetos no C#        | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/b7f014908af0544ea785275a90b8a045c6c90837.zip) |
+| Aula 03 | Vídeo 16 - Trabalhando com construtores              | 03:16 - Trabalhando com construtores              | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/c018e43a179fd1e078b1eda12be6a51ae318fd62.zip) |
+| Aula 03 | Vídeo 17 - Herança no C#                             | 03:17 - Herança no C#                             | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/980fd2d0349f490cc7009215b6bb9fb9cacf5cb7.zip) |
+| Aula 03 | Vídeo 18 - Visibilidade e encapsulamento             | 03:18 - Visibilidade e encapsulamento             | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/bd3c2f19b541287a4653cde2b7fd1b95e837e425.zip) |
+| Aula 03 | Vídeo 19 - Classes abstratas no C#                   | 03:19 - Classes abstratas no C#                   | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/e7857865b57e920ed1af59b69dd56f4c37ee78e0.zip) |
+| Aula 03 | Vídeo 20 - Interfaces no C#                          | 03:20 - Interfaces no C#                          | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/6f70299faea297979d05334a9d8e71e1f5d7aca4.zip) |
+| Aula 03 | Vídeo 21 - Polimorfismo e LSP                        | 03:21 - Polimorfismo e LSP                        | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/f59e95102cd9087fa4692fe3260087e4074390b5.zip) |
+| Aula 03 | Vídeo 22 - Métodos especiais                         | 03:22 - Métodos especiais                         | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/72364fb258408546bc6fda0c962ed5fd31c31faf.zip) |
+| Aula 03 | Vídeo 23 - Organizando o código com namespaces       | 03:23 - Organizando o código com namespaces       | [Download](https://github.com/treinaweb/multistack-nivelamento-csharp/archive/11751991d1d31497146bd15300052564e6bbc4af.zip) |
